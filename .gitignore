@@ -1,0 +1,6 @@
+*.sdf
+.vs/
+ipch/
+Debug/
+x64/
+ARO.v12.suo
